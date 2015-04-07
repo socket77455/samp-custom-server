@@ -1,0 +1,46 @@
+
+<map mod="race" version="1.0">
+
+  <meta/>
+
+  <options>
+    <respawn>timelimit</respawn>
+  </options>
+
+  <object name="object (3)">
+    <position>-1618.006348 685.129456 6.187500</position>
+    <rotation>1.570796 0.000000 0.000000</rotation>
+    <model>2008</model>
+  </object>
+
+  <object name="object (4)">
+    <position>-1616.976440 686.508301 6.187703</position>
+    <rotation>2.552544 0.000000 0.000000</rotation>
+    <model>1722</model>
+  </object>
+
+  <object name="object (6)">
+    <position>-1615.757446 680.109558 6.187500</position>
+    <rotation>3.141593 0.000000 0.000000</rotation>
+    <model>2008</model>
+  </object>
+
+  <object name="object (7)">
+    <position>-1615.829834 681.530823 6.187703</position>
+    <rotation>2.356194 0.000000 0.000000</rotation>
+    <model>1722</model>
+  </object>
+
+  <object name="object (8)">
+    <position>-1614.150269 679.504578 6.558354</position>
+    <rotation>0.000000 0.000000 0.000000</rotation>
+    <model>986</model>
+  </object>
+
+  <object name="object (15)">
+    <position>-1615.513794 687.878723 6.180506</position>
+    <rotation>0.000000 0.000000 0.000000</rotation>
+    <model>1536</model>
+  </object>
+
+</map>
